@@ -1,0 +1,100 @@
+Country,Year,Cases,Deaths,Mortality_Rate,Screening_Rate,Region,HPV_Vaccination_Status
+India,2014,110000,66000,60.00%,18%,Developing,Yes
+India,2015,112000,68000,60.70%,20%,Developing,Yes
+India,2016,114500,69500,60.70%,21%,Developing,Yes
+India,2017,117000,71000,60.70%,22%,Developing,Yes
+India,2018,120000,73000,60.80%,23%,Developing,Yes
+India,2019,122000,75000,61.50%,24%,Developing,Yes
+India,2020,123907,77347,62.40%,24%,Developing,Yes
+India,2021,125000,79000,63.20%,25%,Developing,Yes
+India,2022,126000,80500,63.90%,25%,Developing,Yes
+India,2023,127000,82000,64.60%,26%,Developing,Yes
+India,2024,128000,83500,65.00%,26%,Developing,Yes
+China,2014,108000,52000,48.10%,22%,Developing,Yes
+China,2015,110000,54000,49.10%,25%,Developing,Yes
+China,2016,112000,55000,49.10%,26%,Developing,Yes
+China,2017,114500,56500,49.30%,27%,Developing,Yes
+China,2018,116500,57800,49.60%,28%,Developing,Yes
+China,2019,117800,58600,49.70%,29%,Developing,Yes
+China,2020,118959,59000,49.60%,30%,Developing,Yes
+China,2021,119500,59200,49.50%,31%,Developing,Yes
+China,2022,120000,59400,49.50%,32%,Developing,Yes
+China,2023,120500,59600,49.50%,33%,Developing,Yes
+China,2024,121000,59800,49.40%,34%,Developing,Yes
+United States,2014,12400,3900,31.50%,78%,Developed,Yes
+United States,2015,12600,4000,31.70%,80%,Developed,Yes
+United States,2016,12700,4050,31.90%,81%,Developed,Yes
+United States,2017,12900,4100,31.80%,82%,Developed,Yes
+United States,2018,13200,4150,31.40%,82%,Developed,Yes
+United States,2019,13500,4200,31.10%,83%,Developed,Yes
+United States,2020,13810,4280,31.00%,83%,Developed,Yes
+United States,2021,13700,4250,31.00%,84%,Developed,Yes
+United States,2022,13600,4200,30.90%,85%,Developed,Yes
+United States,2023,13500,4150,30.70%,86%,Developed,Yes
+United States,2024,13400,4100,30.60%,87%,Developed,Yes
+Africa,2014,73000,51000,69.90%,10%,Developing,No
+Africa,2015,75000,52000,69.30%,12%,Developing,No
+Africa,2016,77000,53500,69.50%,13%,Developing,No
+Africa,2017,78500,55000,69.90%,15%,Developing,No
+Africa,2018,80000,56500,70.60%,18%,Developing,No
+Africa,2019,81500,58000,71.20%,20%,Developing,No
+Africa,2020,83000,59000,71.10%,20%,Developing,No
+Africa,2021,84500,60500,71.60%,21%,Developing,No
+Africa,2022,86000,62000,72.10%,22%,Developing,No
+Africa,2023,87500,63500,72.60%,23%,Developing,No
+Africa,2024,89000,65000,73.00%,24%,Developing,No
+Australia,2014,1000,320,32.00%,70%,Developed,Yes
+Australia,2015,980,310,31.60%,72%,Developed,Yes
+Australia,2016,970,305,31.40%,73%,Developed,Yes
+Australia,2017,960,302,31.50%,74%,Developed,Yes
+Australia,2018,955,301,31.50%,74%,Developed,Yes
+Australia,2019,952,300,31.50%,75%,Developed,Yes
+Australia,2020,950,300,31.60%,75%,Developed,Yes
+Australia,2021,945,295,31.10%,76%,Developed,Yes
+Australia,2022,940,290,30.90%,77%,Developed,Yes
+Australia,2023,935,285,30.50%,78%,Developed,Yes
+Australia,2024,930,280,30.10%,79%,Developed,Yes
+Germany,2014,5300,1950,36.80%,65%,Developed,Yes
+Germany,2015,5250,1920,36.60%,66%,Developed,Yes
+Germany,2016,5200,1900,36.50%,67%,Developed,Yes
+Germany,2017,5150,1880,36.50%,67%,Developed,Yes
+Germany,2018,5000,1840,36.70%,68%,Developed,Yes
+Germany,2019,4950,1820,36.80%,68%,Developed,Yes
+Germany,2020,4900,1800,36.70%,68%,Developed,Yes
+Germany,2021,4850,1780,36.70%,69%,Developed,Yes
+Germany,2022,4800,1760,36.70%,70%,Developed,Yes
+Germany,2023,4750,1740,36.60%,71%,Developed,Yes
+Germany,2024,4700,1720,36.60%,72%,Developed,Yes
+France,2014,3100,1100,35.50%,60%,Developed,Yes
+France,2015,3050,1080,35.40%,62%,Developed,Yes
+France,2016,3000,1050,35.00%,63%,Developed,Yes
+France,2017,2950,1030,34.90%,64%,Developed,Yes
+France,2018,2900,1010,34.80%,65%,Developed,Yes
+France,2019,2900,1000,34.50%,65%,Developed,Yes
+France,2020,2900,1000,34.50%,65%,Developed,Yes
+France,2021,2850,980,34.40%,66%,Developed,Yes
+France,2022,2800,960,34.30%,67%,Developed,Yes
+France,2023,2750,940,34.20%,68%,Developed,Yes
+France,2024,2700,920,34.10%,69%,Developed,Yes
+Japan,2014,11000,3500,31.80%,20%,Developed,Yes
+Japan,2015,10800,3400,31.50%,21%,Developed,Yes
+Japan,2016,10600,3350,31.50%,22%,Developed,Yes
+Japan,2017,10400,3300,31.70%,23%,Developed,Yes
+Japan,2018,10300,3250,31.60%,24%,Developed,Yes
+Japan,2019,10250,3220,31.40%,25%,Developed,Yes
+Japan,2020,10200,3200,31.40%,25%,Developed,Yes
+Japan,2021,10150,3180,31.30%,26%,Developed,Yes
+Japan,2022,10100,3160,31.30%,27%,Developed,Yes
+Japan,2023,10050,3140,31.20%,28%,Developed,Yes
+Japan,2024,10000,3120,31.20%,29%,Developed,Yes
+Europe,2014,38000,13500,35.50%,60%,Developed,Yes
+Europe,2015,37500,13200,35.20%,62%,Developed,Yes
+Europe,2016,37000,12900,35.00%,63%,Developed,Yes
+Europe,2017,36500,12600,34.50%,64%,Developed,Yes
+Europe,2018,36000,12300,34.20%,65%,Developed,Yes
+Europe,2019,35500,12150,34.20%,65%,Developed,Yes
+Europe,2020,35000,12000,34.30%,65%,Developed,Yes
+Europe,2021,34500,11800,34.20%,66%,Developed,Yes
+Europe,2022,34000,11600,34.10%,67%,Developed,Yes
+Europe,2023,33500,11400,34.00%,68%,Developed,Yes
+Europe,2024,33000,11200,33.90%,69%,Developed,Yes
